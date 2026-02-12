@@ -1,0 +1,13 @@
+{
+  "trending": [
+    { "title": "Money Heist", "image": "https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" },
+    { "title": "Stranger Things", "image": "https://wallpapercave.com/wp/wp1839578.jpg" },
+    { "title": "Dark", "image": "https://w0.peakpx.com/wallpaper/165/236/HD-wallpaper-dark-serie-dark-netflix-serie-series.jpg" }
+  ],
+
+  "topRated": [
+    { "title": "Inception", "image": "https://wallpapercave.com/wp/wp11374708.jpg" },
+    { "title": "Interstellar", "image": "https://w0.peakpx.com/wallpaper/747/660/HD-wallpaper-interstellar-movie.jpg" },
+    { "title": "The Dark Knight", "image": "https://w0.peakpx.com/wallpaper/652/510/HD-wallpaper-titanic-movie.jpg" }
+  ]
+}
